@@ -1,0 +1,28 @@
+.about-site-banner-bg {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: -1;
+	overflow: hidden;
+	background: url('../images/13.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+/*about大圖banner*/
+.about-site-banner {
+	height: 600px;
+	height: 50vh;
+	position: relative;
+}
+
+
+.about-site-banner-content{
+	padding: 50px 0 100px 0
+}
+
+.about-title-sub{
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 35px;
+}

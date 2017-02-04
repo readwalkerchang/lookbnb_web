@@ -1,0 +1,70 @@
+.section1 {
+	padding-top:50px;
+	height:500px; 
+}
+
+
+.title-color{
+	background-color: #E6C5C5;
+}
+
+.service-car-site-banner-bg {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: -1;
+	overflow: hidden;
+	background: url('../images/16.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+.service-site-banner-bg {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: -1;
+	overflow: hidden;
+	background: url('../images/17.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+.service-site-banner-content {
+	position: absolute;
+	font-size: 30pt;
+	top: 50%;
+	left: 50%;
+	min-width: 80%;
+	transform: translate(-50%,-50%);
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.service-title-sub{
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size:16px; 
+	text-align: justify;
+	line-height: 1.8em;
+}
+
+.pic-align-car{
+	padding-top: 80px;
+	padding-right: 20px;
+	text-align: center;
+}
+
+.pic-align-BBQ{
+	padding-top: 50px;
+	padding-left: 80px;
+}
+
+.image-wall-row-bg{
+	background: url('../images/14.jpg') center no-repeat;
+	z-index: -1;
+	overflow: hidden;
+    background-position: center bottom;
+    background-size: cover;
+}
