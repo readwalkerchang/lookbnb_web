@@ -1,50 +1,6 @@
 .card {
-	box-shadow: 0 0 5px rgba(0,1,2,.3);
+	box-shadow: 0 0 2px rgba(0,1,2,.2);
 	position: relative;
-	top: -10px;
-	left: 10px;
-	width: 300px;
-	background-color: #FFFFFF;
-	font-family: 'Noto Sans';
-}
-
-
-.card-grid{
-	max-height: 300px;
-	overflow: hidden;
-	margin-bottom: 30px;
-	box-shadow: 0 0 2px rgba(0,1,)
-}
-
-.card{
-	max-height: 300px;
-	overflow: hidden;
-	margin-bottom: 30px;
-	box-shadow: 0 0 2px rgba(0,1,)
-}
-.card-text{
-	font-size: 18px;
-	padding: 0px 0 20px 0;
-	text-align: center;
-	font-family: 'Noto Sans TC', sans-serif;
-	font-weight: 300;
-}
-
-
-.image-wall-text{
-	font-size: 20px;
-	padding: 0px 0 5px 0;
-	text-align: center;
-	font-family: 'Noto Sans TC', sans-serif;
-	font-weight: 300;
-}
-
-.image-wall-grid{
-	max-height: 300px;
-	overflow: hidden;
-	margin-top: 40px;
-	margin-bottom: 30px;
-	box-shadow: 0 0 2px rgba(0,1,)
 }
 
 @media (min-width: 992px) {
@@ -94,10 +50,40 @@
 }
 
 
+.card-grid{
+	max-height: 300px;
+	overflow: hidden;
+	margin-bottom: 30px;
+	box-shadow: 0 0 2px rgba(0,1,)
+}
+
+.card{
+	max-height: 300px;
+	overflow: hidden;
+	margin-bottom: 30px;
+	box-shadow: 0 0 2px rgba(0,1,)
+}
+.card-text{
+	font-size: 18px;
+	padding: 0px 0 20px 0;
+	text-align: center;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: 300;
+}
 
 
+.image-wall-text{
+	font-size: 20px;
+	padding: 0px 0 5px 0;
+	text-align: center;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: 300;
+}
 
-
-
-
-
+.image-wall-grid{
+	max-height: 300px;
+	overflow: hidden;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	box-shadow: 0 0 2px rgba(0,1,)
+}

@@ -86,7 +86,6 @@
 }
 
 
-/*Ê×í“´óˆDbanner*/
 .site-banner {
 	height: 600px;
 	height: 100vh;
@@ -126,7 +125,6 @@
 	text-transform: uppercase;
 }
 
-/*Ê×í“´óˆDCTA*/
 .title-sub{
 	font-family: 'Noto Sans TC', sans-serif;
 }
@@ -153,7 +151,6 @@
 	color: #000;
 }
 
-/*sectionÕ{Õû˜Ëî}µÄÉÏÏÂ¿Õég*/
 .section-header {
 	padding: 100px 0 150px 0
 }
@@ -164,6 +161,10 @@
 	padding: 20px 0 20px 0;
 	font-family: 'Noto Sans TC', sans-serif;
 }
+
+
+
+/*footer*/
 
 .site-footer {
 	background-color:#000000;
