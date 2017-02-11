@@ -125,8 +125,23 @@
 	text-transform: uppercase;
 }
 
+.site-banner-content{
+	text-align:center;
+	font-family: 'Noto Sans TC', sans-serif;
+	line-height: 25px;
+	font-size: 16pt;
+	font-weight: 300;
+}
+
+/*home_copywriting*/
+
+
 .title-sub{
 	font-family: 'Noto Sans TC', sans-serif;
+	text-align:justify;
+	line-height: 25px;
+	font-size: 65%;
+	font-weight: 300;
 }
 
 /*menu*/
