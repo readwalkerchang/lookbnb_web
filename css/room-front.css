@@ -14,3 +14,27 @@
 	height: 50vh;
 	position: relative;
 }
+
+.room-title-sub{
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 30px;
+}
+
+.card-room{
+	max-height: 300px;
+	overflow: hidden;
+	margin-bottom: 5px;
+	box-shadow: 0 0 2px rgba(0,1,2,.2);
+	position: relative;
+}
+
+.row-room{
+	padding: 0 0 20px 0;
+	box-shadow: 0 0 2px rgba(0,1,)
+}
+
+.room-footer-sub{
+	color: #000000;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 30px;
+}

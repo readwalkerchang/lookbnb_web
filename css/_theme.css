@@ -119,18 +119,14 @@
 	transform: translate(-50%,-50%);
 	color: #FFFFFF;
 	text-align: center;
-}
-
-.site-banner-content .title {
-	text-transform: uppercase;
-}
-
-.site-banner-content{
-	text-align:center;
 	font-family: 'Noto Sans TC', sans-serif;
 	line-height: 25px;
 	font-size: 16pt;
 	font-weight: 300;
+}
+
+.site-banner-content .title {
+	text-transform: uppercase;
 }
 
 /*home_copywriting*/
