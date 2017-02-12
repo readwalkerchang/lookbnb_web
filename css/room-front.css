@@ -28,6 +28,14 @@
 	position: relative;
 }
 
+.card-stair{
+	text-align: center;
+	max-height: 300px;
+	overflow: hidden;
+	margin-bottom: 5px;
+	position: relative;
+}
+
 .row-room{
 	padding: 0 0 20px 0;
 	box-shadow: 0 0 2px rgba(0,1,)
