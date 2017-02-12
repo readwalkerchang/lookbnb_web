@@ -73,6 +73,21 @@
 	background-color: #fff;
 }
 
+.image-wall-row-bg{
+	background-color: #E9E9E9;
+	z-index: -1;
+	overflow: hidden;
+    background-position: center bottom;
+    background-size: cover;
+}
+
+.image-box{
+	max-height: 300px;
+	overflow: hidden;
+	margin-bottom: 30px;
+	position: relative;
+}
+
 
 .image-wall-text{
 	font-size: 20px;

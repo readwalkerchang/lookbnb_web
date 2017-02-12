@@ -32,6 +32,7 @@
 	background-size: cover;
 }
 
+
 .service-site-banner-content {
 	position: absolute;
 	font-size: 30pt;
@@ -59,12 +60,4 @@
 .pic-align-BBQ{
 	padding-top: 50px;
 	padding-left: 80px;
-}
-
-.image-wall-row-bg{
-	background: url('../images/14.jpg') center no-repeat;
-	z-index: -1;
-	overflow: hidden;
-    background-position: center bottom;
-    background-size: cover;
 }
