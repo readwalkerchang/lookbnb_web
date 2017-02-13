@@ -9,7 +9,7 @@
 	text-align: center;
 }
 
-.book-site-banner-bg {
+.book-taiwan-bg {
 	position: absolute;
 	top: 0;
 	bottom: 0;
@@ -17,7 +17,19 @@
 	right: 0;
 	z-index: -1;
 	overflow: hidden;
-	background: url('../images/15.jpg') center center no-repeat;
+	background: url('../images/book-taiwan-bg.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+.book-overseas-bg {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: -1;
+	overflow: hidden;
+	background: url('../images/book-overseas-bg.jpg') center center no-repeat;
 	background-size: cover;
 }
 
